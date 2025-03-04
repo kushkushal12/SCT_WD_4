@@ -1,5 +1,4 @@
 
-
 # 📝 To-Do Web Application  
 
 A simple and functional **To-Do List Web App** built using **HTML**, **CSS**, and **JavaScript** that helps users **add, manage, and organize tasks** efficiently with options to mark them completed, edit tasks, and set due dates & times.  
