@@ -15,9 +15,3 @@ A simple and functional **To-Do List Web App** built using **HTML**, **CSS**, an
 
 
 
-## 🧠 What I Learned  
-- Handling **dynamic list rendering** with JavaScript  
-- Managing **CRUD operations** (Create, Read, Update, Delete)  
-- Working with **date & time inputs**  
-- Improving **user experience** with interactive UI  
-
